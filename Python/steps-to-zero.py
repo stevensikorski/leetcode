@@ -3,8 +3,8 @@
 # @date       August 19 2022
 # @brief      1342. Number of Steps to Reduce a Number to Zero
 
-class Solution(object):
-    def numberOfSteps(self, num):
+class Solution:
+    def numberOfSteps(self, num: int) -> int:
         steps = 0
         even = True if num % 2 == 0 else False
 
