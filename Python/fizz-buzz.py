@@ -3,8 +3,8 @@
 # @date       August 18 2022
 # @brief      412. Fizz Buzz
 
-class Solution(object):
-    def fizzBuzz(self, n):
+class Solution:
+    def fizzBuzz(self, n: int) -> List[str]:
         answer = []
         for i in range(1, n + 1):
             string = ""
