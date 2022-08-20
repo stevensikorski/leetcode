@@ -1,11 +1,7 @@
-/*
-
-@file       header.h
-@author     stevensikorski
-@date       August 17 2022
-@brief      Header file
-
-*/
+// @file       header.h
+// @author     stevensikorski
+// @date       August 17 2022
+// @brief      Header file
 
 #include <cassert>
 #include <cctype>
