@@ -1,11 +1,7 @@
-/*
-
-@file       roman-to-integer.cpp
-@author     stevensikorski
-@date       August 17 2022
-@brief      13. Roman to Integer
-
-*/
+// @file       roman-to-integer.cpp
+// @author     stevensikorski
+// @date       August 17 2022
+// @brief      13. Roman to Integer
 
 #include "header.h"
 
