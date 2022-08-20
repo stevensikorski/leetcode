@@ -13,6 +13,3 @@ class Solution:
             if (value) in mathlist:
                 return [mathlist[value], i]
             mathlist[nums[i]] = i
-            
-
-print(Solution().twoSum([3,2,3], 6))
