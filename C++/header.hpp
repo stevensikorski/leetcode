@@ -1,7 +1,7 @@
-// @file       header.h
+// @file       header.hpp
 // @author     stevensikorski
-// @date       August 17 2022
-// @brief      Header file
+// @date       August 22 2022
+// @brief      Header File
 
 #include <cassert>
 #include <cctype>
