@@ -1,4 +1,4 @@
-// @file       roman-to-integer.cpp
+// @file       pascals-triangle.cpp
 // @author     stevensikorski
 // @date       December 27 2022
 // @brief      118. Pascal's Triangle
