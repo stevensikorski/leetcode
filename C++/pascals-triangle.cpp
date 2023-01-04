@@ -5,7 +5,8 @@
 
 #include <header.hpp>
 
-class Solution {
+class Solution 
+{
     public:
         vector<vector<int>> generate(int numRows) 
         {
